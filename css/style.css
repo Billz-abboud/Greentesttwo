@@ -795,7 +795,7 @@ button {
 
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #f2515e;
+    background-color: #28a745;
 }
 
 
@@ -891,7 +891,7 @@ textarea#comment::placeholder {
 .send_bt a {
     width: 100%;
     float: left;
-    background-color: #f2515e;
+    background-color: #28a745;
     color: #fefeff;
     text-align: center;
     padding: 10px 0px;
@@ -929,7 +929,7 @@ textarea#comment::placeholder {
 
 .location_icon li {
     float: left;
-    background-color: #f2515e;
+    background-color: #28a745;
     border-radius: 100%;
     width: 60px;
     height: 60px;
@@ -948,7 +948,7 @@ textarea#comment::placeholder {
 .mail_box {
     width: 90%;
     display: flex;
-    background-color: #ffffff;
+    background-color: #28a745;
     height: auto;
     border-radius: 40px;
     padding: 5px 5px 0px 20px;
@@ -976,7 +976,7 @@ textarea#comment::placeholder {
     font-size: 18px;
     color: #fdfdfd;
     text-align: center;
-    background-color: #f2515e;
+    background-color: #28a745;
     padding: 11px 10px;
     text-transform: uppercase;
     border-radius: 40px;
